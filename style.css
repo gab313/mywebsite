@@ -1,0 +1,52 @@
+body{
+    text-align:center;
+    background-color:rgb(72, 172, 218);
+    padding-top: 800px;
+    margin:0;
+}
+.profile{
+    width: 40%;
+    border-radius:40%;
+}
+#welcome{
+    position:absolute;
+    bottom:0;
+    display: table;
+    height: 100%;
+    width:100%;
+}
+h1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: beige;
+}
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: beige;
+}
+#bio{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+#name{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.line{
+    height:6px;
+    background-color: white;
+    width: 70px;
+}
+.parallax-inner{
+display: table-cell;
+vertical-align: center;
+}
+h4{
+    font-size: 37.5px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
